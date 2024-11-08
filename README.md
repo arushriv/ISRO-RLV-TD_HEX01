@@ -7,11 +7,7 @@ By developing this autonomous free-flying robot with a robust propulsion system,
 
 **MATLAB/C++ Libraries for the kinematic and dynamic analysis and simulation of space robots**
 
-![movx.gif](./docs/media/movx.gif) ![ets3x4.gif](./docs/media/ets3x4.gif)
-
 Author(s) and maintainer(s): [Space Robotics Lab.](http://www.astro.mech.tohoku.ac.jp/e/index.html)
-
-[![srl-logo-original.jpg](./docs/media/srl-logo-original.jpg)](http://www.astro.mech.tohoku.ac.jp/e/index.html)
 
 **This GitHub page is made based on the [original webpage of the Spacedyn](http://www.astro.mech.tohoku.ac.jp/spacedyn/) by current SRL member.** Please, always refer to the original webpage for more information.
 
