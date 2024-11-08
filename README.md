@@ -9,8 +9,6 @@ By developing this autonomous free-flying robot with a robust propulsion system,
 
 Author(s) and maintainer(s): [Space Robotics Lab.](http://www.astro.mech.tohoku.ac.jp/e/index.html)
 
-**This GitHub page is made based on the [original webpage of the Spacedyn](http://www.astro.mech.tohoku.ac.jp/spacedyn/) by current SRL member.** Please, always refer to the original webpage for more information.
-
 
 ## Overview
 The RLV_HEX_ISRO's MATLAB/C++ library for the kinematic and dynamic analysis and simulation of articulated multi-body systems with a moving base. Examples of such systems are a satellite with mechanical appendages, a free-flying space robot, a wheeled mobile robot, and a walking robot, all of which makes motions in the environment with or without gravity.
